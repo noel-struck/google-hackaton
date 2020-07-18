@@ -12,7 +12,7 @@
   "dependencies": {
     "aws-sdk": "^2.474.0",
     "lambda-log": "^2.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "prettier": "^1.18.2",
     "voxa": "^3.1.3"
   },

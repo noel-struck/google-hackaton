@@ -10,7 +10,7 @@
   "author": "VoiceMachos",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.474.0",
+    "aws-sdk": "^2.814.0",
     "lambda-log": "^2.2.0",
     "lodash": "^4.17.11",
     "prettier": "^1.18.2",
